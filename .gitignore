@@ -1,0 +1,9 @@
+# Generelt
+.DS_Store
+.idea
+*.iml
+*.ipr
+*.iws
+target/
+*.log
+*.log.*
